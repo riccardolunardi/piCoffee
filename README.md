@@ -10,11 +10,6 @@ This is possible by changing the wiring diagram inside the device, connecting it
 - Plannable coffee
 - Turn off/on the machine
 
-### Languages you need to know (at least a little bit)
-- PHP
-- Javascript
-- Linux's Shell
-
 ## Sources ##
 - https://crontab.guru/
 - http://bradymholt.github.io/cRonstrue/
