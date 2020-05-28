@@ -15,19 +15,9 @@ This is possible by changing the wiring diagram inside the device, connecting it
 - Javascript
 - Linux's Shell
 
-## Installation
-1. Install an Apache server on your RaspberryPi.
-2. Install PHP.
-3. Follow the instruction on the .pdf file.
-
-##### It's gonna be quite hard if you're coffee machine isn't like mine, but feel free to ask
-
-
-A big thanks to this guys:
-
-
+## Sources ##
 - https://crontab.guru/
--  http://bradymholt.github.io/cRonstrue/
+- http://bradymholt.github.io/cRonstrue/
 - https://en.wikipedia.org/wiki/General-purpose_input/output
 - https://www.raspberrypi.org/documentation/usage/gpio/
 - https://it.wikipedia.org/wiki/Crontab
